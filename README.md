@@ -26,3 +26,8 @@
 ## 📌 Objetivo
 
 Busco mi primera experiencia laboral en IT y participar en proyectos donde pueda seguir aprendiendo y aportando valor.
+
+---
+![](https://komarev.com/ghpvc/?username=gustavo-ariell&color=grey&style=for-the-badge)
+  ## 💖 Podes ayudarme haciendo una donación / You can help me by Donating
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/gustavoxx)[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/gustavoxx)[![Cafecito](https://img.shields.io/badge/☕%20Invitame%20un%20cafecito-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://cafecito.app/gustavox)
