@@ -1,16 +1,28 @@
-## Hi there 👋
+# 💻 Gustavo | Analista de Sistemas en formación
 
-<!--
-**gustavo-ariell/gustavo-ariell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Linux](https://img.shields.io/badge/Linux-Advanced-black?logo=linux)
+![Python](https://img.shields.io/badge/Python-Learning-blue?logo=python)
+![PHP](https://img.shields.io/badge/PHP-Intermediate-777BB4?logo=php)
+![SQL](https://img.shields.io/badge/SQL-Database-blue)
+![English](https://img.shields.io/badge/English-Fluent-success)
 
-Here are some ideas to get you started:
+## 🚀 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Estudiante de Analista de Sistemas  
+💻 Aprendiendo desarrollo web y programación backend  
+🤝 Buscando colaborar en proyectos IT  
+📚 Mejorando constantemente mis habilidades técnicas  
+🐧 Usuario avanzado de Linux y Windows  
+
+## 🛠️ Stack
+
+- Python
+- PHP
+- HTML / CSS / JavaScript
+- SQL & Bases de datos
+- Linux & Windows
+- Git & GitHub
+
+## 📌 Objetivo
+
+Busco mi primera experiencia laboral en IT y participar en proyectos donde pueda seguir aprendiendo y aportando valor.
